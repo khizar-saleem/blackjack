@@ -40,7 +40,7 @@ public class Card {
   @ColumnInfo(name = "shoe_id", index = true)
   private Long shoeId;
 
-  @ColumnInfo(name = "shoe_id", index = true)
+  @ColumnInfo(name = "hand_id", index = true)
   private Long handId;
 
   public long getId() {
