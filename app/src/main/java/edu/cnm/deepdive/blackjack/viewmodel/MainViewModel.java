@@ -23,5 +23,5 @@ public class MainViewModel extends AndroidViewModel {
   public LiveData<Shoe> getShoe() {
     return database.getShoeDao().getById(shoeId);
   }
-  
+
 }
