@@ -22,4 +22,5 @@ public class DealerHandFragment extends HandFragment {
   public int getLayout() {
     return R.layout.fragment_hand;
   }
+
 }
